@@ -18,6 +18,5 @@
         app:layout_constraintEnd_toEndOf="parent"
         android:padding="16dp"
         android:scrollbars="vertical"
-        android:typeface="monospace"
-        android:text="@string/waiting_api_response" />
+        android:typeface="monospace"/>
 </androidx.constraintlayout.widget.ConstraintLayout>
